@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/UpK4wvl.jpeg",
   "chapters": {
     "1": {
-      "title": "Champter 0 - Selica and the fluffy one",
+      "title": "Chapter 0 - Selica and the fluffy one",
       "volume": "0",
       "last_updated": "1707069643",
       "groups": {
@@ -14,6 +14,19 @@
           "https://i.imgur.com/5ev8gps.jpeg",
           "https://i.imgur.com/j9e992T.jpeg",
           "https://i.imgur.com/X1Uqt1A.jpeg"
+        ]
+      }
+    },
+    "2": {
+      "title": "Chapter 1 - Buggy Feelings",
+      "volume": "1",
+      "last_updated": "1717948742",
+      "groups": {
+        "Round 1": [
+          "https://imgur.com/l51DZLj",
+          "https://imgur.com/0L2b0yD",
+          "https://imgur.com/LMSWqSc",
+          "https://imgur.com/BKXGzf7"
         ]
       }
     }
